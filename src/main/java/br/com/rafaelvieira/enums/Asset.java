@@ -1,0 +1,30 @@
+package br.com.rafaelvieira.enums;
+
+public enum Asset {
+    BTC,
+    ETH,
+    XRP,
+    LTC,
+    BCH,
+    EOS,
+    XLM,
+    ADA,
+    USDT,
+    BNB,
+    XMR,
+    DASH,
+    ETC,
+    ZEC,
+    BSV,
+    TRX,
+    ATOM,
+    XTZ,
+    NEO,
+    VET,
+    LINK,
+    BAT,
+    ONT,
+    QTUM,
+    ZRX,
+    BAND
+}
